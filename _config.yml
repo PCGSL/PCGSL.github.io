@@ -1,0 +1,25 @@
+title: Port City Girls Softball League
+email: 
+description: Port City Girls Softball League
+baseurl: "" 
+url: ""
+twitter_username: 
+github_username:  PCGSL
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
